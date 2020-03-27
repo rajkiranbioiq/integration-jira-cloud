@@ -45,6 +45,8 @@ tenable:
   tio_severities:
     - high
     - critical
+    - low
+    - medium
 
   # Tenable.sc Query to use as the basis for generating JIRA tickets.
   query_id:
